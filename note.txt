@@ -1,0 +1,15 @@
+Brief description of each folder:
+
+.next/: This folder contains the output of the Next.js build process. It includes optimized and compiled files for production.
+
+node_modules/: This is where Node.js modules and project dependencies are stored.
+
+public/: This folder is used for static assets that are directly accessible to the public, like images, fonts, etc.
+
+src/: This is where most of your application code resides.
+
+pages/: This is where you define your Next.js pages (routes). Each file in this directory becomes a route.
+
+components/: You can organize your reusable UI components in this folder.
+
+styles/: You can put global styles or stylesheets here.
